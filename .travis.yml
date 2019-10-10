@@ -1,3 +1,5 @@
 os: osx
 script:
 - brew info
+- brew update
+- brew info
