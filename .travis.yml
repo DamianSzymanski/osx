@@ -3,3 +3,5 @@ script:
 - brew info
 - brew update
 - brew info
+- brew upgrade
+- brew info
